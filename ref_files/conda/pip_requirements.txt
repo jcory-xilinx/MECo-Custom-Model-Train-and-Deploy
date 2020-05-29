@@ -1,0 +1,4 @@
+opencv-python
+tensorflow-gpu==1.14
+numpy<1.17
+requests

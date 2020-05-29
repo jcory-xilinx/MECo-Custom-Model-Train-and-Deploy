@@ -1,0 +1,17 @@
+matplotlib
+graphviz
+networkx
+pydot
+pydotplus
+sortedcontainers
+jsonpickle
+bitstruct
+texttable
+tqdm
+pycocotools
+jupyter
+nb_conda_kernels
+git-lfs
+h5py
+pillow
+libgcc
